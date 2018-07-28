@@ -3,7 +3,7 @@ node_js:
  - '10'
  - '8'
 
- cache:
+cache:
   yarn: true
   directories:
     - ".eslintcache"
