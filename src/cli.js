@@ -11,7 +11,7 @@ const ui = importJsx('./ui');
 
 meow(`
     Usage
-      $ flyhighair
+      $ flyhighair-cli
 `);
 
 const fallback = async () => {

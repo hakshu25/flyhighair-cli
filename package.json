@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "The flyhighair CLI",
   "bin": {
-    "flyhighair": "src/cli.js"
+    "flyhighair-cli": "src/cli.js"
   },
   "engines": {
     "node": ">=8"

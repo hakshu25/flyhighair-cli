@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-$ npx flyhighair
+$ npx flyhighair-cli
 ```
 
 ## License
