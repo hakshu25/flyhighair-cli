@@ -1,0 +1,12 @@
+{
+  "name": "flyhighair-cli",
+  "version": "1.0.0",
+  "description": "The flyhighair CLI",
+  "main": "index.js",
+  "repository": "https://github.com/flyhighair/flyhighair-cli.git",
+  "author": "flyhighair <flyhigh.air25@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ink": "^0.5.1"
+  }
+}
