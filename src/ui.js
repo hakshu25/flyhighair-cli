@@ -26,7 +26,7 @@ const items = [
 	},
 	{
 		label: 'Qiita',
-		url: 'https://qiita.com/flyhigh'
+		url: 'https://qiita.com/hakshu'
 	},
 	{
 		label: 'Exit',
