@@ -1,0 +1,18 @@
+name: Check lint
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js v12
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12.x
+    - name: Check lint
+      run: |
+        yarn --frozen-lockfile
+        yarn lint
